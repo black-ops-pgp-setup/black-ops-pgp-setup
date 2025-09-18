@@ -9,9 +9,9 @@ Why Use PGP?
 - Critical for private dealings on marketplaces where privacy matters.
 
  
-[<img src="/previews/gray.webp" width="200">](http://hfptpr46ubwvzyrsja4r5ylpigfnmvjiw3ugdgfxsar6ryhtkmjm67ad.onion)
+[<img src="/previews/gray.webp" width="200">](http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion)
 
-<a href="http://hfptpr46ubwvzyrsja4r5ylpigfnmvjiw3ugdgfxsar6ryhtkmjm67ad.onion"><img src="/previews/control.webp" alt="Verified blackops dark web" style="max-width: 100%;"></a>
+<a href="http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion"><img src="/previews/control.webp" alt="Verified blackops dark web" style="max-width: 100%;"></a>
  
 
 Step-by-Step Black Ops PGP Setup
@@ -28,8 +28,10 @@ Best Practices
 - Use strong passphrases for your PGP keys.  
 - Verify other users’ public keys before trusting communications.
 
-For detailed guides and official information, visit [Black Ops Official Site](http://hfptpr46ubwvzyrsja4r5ylpigfnmvjiw3ugdgfxsar6ryhtkmjm67ad.onion).
+For detailed guides and official information, visit [Black Ops Official Site](http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion).
 
 Conclusion
 
 Setting up PGP correctly is fundamental when dealing on Black Ops darknet markets, ensuring privacy and trust in all communications.
+
+Update:  09/18/2025 Link maintenance
