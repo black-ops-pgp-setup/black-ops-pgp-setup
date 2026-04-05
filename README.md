@@ -9,9 +9,9 @@ Why Use PGP?
 - Critical for private dealings on marketplaces where privacy matters.
 
  
-[<img src="/previews/gray.webp" width="200">](http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion)
+[<img src="/captures/mono.webp" width="200">](http://&#98;%6C&#97;%63%6B%6F&#112;%66&#106;&#111;&#103;%71&#104;%6D&#52;&#98;&#101;%70%70%69%62%32%69&#50;%68&#122;%79&#111;&#51;%78&#53;%67%7A&#119;%74%73%63&#120;%6F&#110;%34%32&#50;%64%72&#104;&#110;&#103;%32%71&#103;u&#112;&#102;&#121;%64%2E&#111;&#110;&#105;%6F&#110;)
 
-<a href="http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion"><img src="/previews/control.webp" alt="Verified blackops dark web" style="max-width: 100%;"></a>
+<a href="http://&#98;%6C&#97;%63%6B%6F&#112;%66&#106;&#111;&#103;%71&#104;%6D&#52;&#98;&#101;%70%70%69%62%32%69&#50;%68&#122;%79&#111;&#51;%78&#53;%67%7A&#119;%74%73%63&#120;%6F&#110;%34%32&#50;%64%72&#104;&#110;&#103;%32%71&#103;u&#112;&#102;&#121;%64%2E&#111;&#110;&#105;%6F&#110;"><img src="/captures/slate.webp" alt="Verified blackops dark web" style="max-width: 100%;"></a>
  
 
 Step-by-Step Black Ops PGP Setup
@@ -28,12 +28,7 @@ Best Practices
 - Use strong passphrases for your PGP keys.  
 - Verify other users’ public keys before trusting communications.
 
-For detailed guides and official information, visit [Black Ops Official Site](http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion).
 
 Conclusion
 
 Setting up PGP correctly is fundamental when dealing on Black Ops darknet markets, ensuring privacy and trust in all communications.
-
-
-
-Update:  10/01/2025 I'm happy to report that the link is now accessible.
